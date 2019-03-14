@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/edgarvaldez99/webhooks-ci/issues"
   },
-  "homepage": "https://github.com/edgarvaldez99/webhooks-ci#readme"
+  "homepage": "https://github.com/edgarvaldez99/webhooks-ci#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
 }
